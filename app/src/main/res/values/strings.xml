@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Sqlite</string>
+    <string name="add_notes">add notes</string>
 </resources>
