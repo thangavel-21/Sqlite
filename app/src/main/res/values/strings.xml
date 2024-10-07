@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Sqlite</string>
     <string name="add_notes">add notes</string>
+    <string name="add_notes_caps">Add Notes</string>
+    <string name="please_enter_content">Please Enter Content Here!</string>
+    <string name="please_enter_title">Please Enter Title</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="update_note">Update Notes</string>
+    <string name="notes">Notes</string>
 </resources>
